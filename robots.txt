@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://website-data-load.github.io/USA-Free-Tools-Hub/sitemap.xml
